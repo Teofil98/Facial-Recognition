@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Facultate\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face0.bmp Teofil Bodea
+C:\Users\user\Desktop\Facultate\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face1.bmp Deicide
+C:\Users\user\Desktop\Facultate\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face2.bmp Girip
+C:\Users\user\Desktop\Facultate\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face3.bmp Teofil Bodea
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face4.bmp Teofil Bodea
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face5.bmp Andrei
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face6.bmp Teofil Bodea
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face7.bmp Teofil Bodea
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face8.bmp Potra
+C:\Users\user\Dropbox\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\FacialRecognitionOldEmgu\bin\Debug/Faces/face9.bmp Potra
